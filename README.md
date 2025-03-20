@@ -34,7 +34,7 @@ Open the project in PyCharm.
 
 Install dependencies (if required):
 
-Run the script:
+Run the script
 
 Usage:
 
