@@ -1,10 +1,10 @@
 Study Planner with Smart Reminders
 
-Overview
+Overview:
 
 The Study Planner with Smart Reminders is a Python-based tool designed to help users efficiently plan their study schedules. It features smart reminders that notify users of upcoming tasks and display missed reminders when the PC is turned on if a task was due in the last 24 hours.
 
-Features
+Features:
 
 Task Scheduling: Add, update, and delete study tasks with deadlines.
 
@@ -16,9 +16,9 @@ User-Friendly Interface: Simple and easy-to-use.
 
 Data Persistence: Save tasks for future reference.
 
-Installation
+Installation:
 
-Prerequisites
+Prerequisites:
 
 Python 3.x installed
 
@@ -36,7 +36,7 @@ Install dependencies (if required):
 
 Run the script:
 
-Usage
+Usage:
 
 Open the Study Planner application.
 
@@ -46,7 +46,7 @@ Receive notifications for scheduled tasks.
 
 Check missed reminders when turning on the PC.
 
-Future Improvements
+Future Improvements:
 
 GUI enhancements with Tkinter or PyQt.
 
